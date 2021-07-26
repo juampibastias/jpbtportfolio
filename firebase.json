@@ -1,16 +1,10 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "mi-portafolio-jpbt",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
     ]
   }
 }
