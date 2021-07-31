@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/juampibastias/Portfolio/issues"
   },
-  "homepage": "https://github.com/juampibastias/Portfolio#readme"
+  "homepage": "https://github.com/juampibastias/Portfolio#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
 }
