@@ -1,22 +1,22 @@
 {
-  "name": "portfolio",
+  "name": "jpbtporfolio",
   "version": "1.0.0",
-  "description": "- 👋 Hi, I’m @juampibastias\r - 👀 I’m interested in ...\r - 🌱 I’m currently learning ...\r - 💞️ I’m looking to collaborate on ...\r - 📫 How to reach me ...",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juampibastias/Portfolio.git"
+    "url": "git+https://github.com/juampibastias/jpbtporfolio.git"
   },
-  "author": "",
+  "author": "Juan Pedro Bastias",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/juampibastias/Portfolio/issues"
+    "url": "https://github.com/juampibastias/jpbtporfolio/issues"
   },
-  "homepage": "https://github.com/juampibastias/Portfolio#readme",
+  "homepage": "https://github.com/juampibastias/jpbtporfolio#readme",
   "dependencies": {
-    "nodemon": "^2.0.12"
+    "express": "^4.17.1"
   }
 }
